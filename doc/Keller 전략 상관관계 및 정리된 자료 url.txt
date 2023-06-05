@@ -1,0 +1,20 @@
+Keller 전략 상관관계 및 정리된 자료 url
+
+
+DAA(카나리아 자산군 개념 등장) -- https://lazyquant.xyz/docs/detail/%EC%9E%90%EC%82%B0%EB%B0%B0%EB%B6%84/6
+
+LAA(영구포트폴리오(동적자산배분: 올웨더와 유사함) 업그레이드) - https://lazyquant.xyz/docs/detail/%EC%9E%90%EC%82%B0%EB%B0%B0%EB%B6%84/7#:~:text=LAA%20%EC%A0%84%EB%9E%B5%EC%9D%B4%EB%9E%80%3F,%EB%A5%BC%20%EC%97%85%EA%B7%B8%EB%A0%88%EC%9D%B4%EB%93%9C%20%EC%8B%9C%ED%82%A8%20%EC%A0%84%EB%9E%B5%EC%9D%B4%EB%8B%A4.
+
+PAA(모든 전략들 중에 유일하게 '광폭 모멘텀' 적용) - https://ddol2freedom.tistory.com/441
+
+HAA(BAA 업그레이드전략 & 카나리아 자산군 개념 등장) - https://sbinvesting.tistory.com/124
+
+VAA(듀얼모멘텀 전략과 유사, 가중 모멘텀 개념 등장) - https://lazyquant.xyz/docs/detail/%EC%9E%90%EC%82%B0%EB%B0%B0%EB%B6%84/5
+
+RAA(LAA 업그레이드 전략, 카나리아 자산군 개념 등장, 가중 모멘텀 개념 등장) - https://almondcream.tistory.com/entry/A-%EC%9E%90%EC%82%B0%EB%B0%B0%EB%B6%84-%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4
+
+BAA (모든 전략 짬뽕 느낌 ) - https://quantchobo.tistory.com/entry/BAA-%EC%A0%84%EB%9E%B5-%EB%B0%B1%ED%85%8C%EC%8A%A4%ED%8A%B8
+ 
+---------------------------------------------------------------------------------------------------------------------------
+
+FAA(모든 전략들 중에 유일하게 '변동성(표준편차)/상관성 모멘텀' 적용 -- 아마 제일 고난이도 전략) - https://jasan-calc.netlify.app/faa.html -- 제 생각엔 그냥 이 전략 빼고 가는게 어떨까 싶습니다!
