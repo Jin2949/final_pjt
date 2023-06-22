@@ -8,3 +8,6 @@ git add . # 다 올린다
 git commit -m '작업내용 상세히 작성' # 올리면서 한번더 확인
 
 git push # 최종 찐
+
+
+...
