@@ -1,19 +1,6 @@
-# final_pjt
-아시아경제 파이널 프로젝트
+# 파이널 프로젝트 발표 구성 및 순서
 
-git pull
-
-git add . # 다 올린다
-
-git commit -m '작업내용 상세히 작성' # 올리면서 한번더 확인
-
-git push # 최종 찐
-
-------
-
-# Lecture
-
-파이널 프로젝트 발표 구성 및 순서
+<img src="./1.png">
 
 1. Gary Antonacci와 Wouter Keller의 간단한 전략 소개 
 2. 미국 연준 자료에서 뭘가지고 왔고 어떤 식으로 경기국면을 나눠봤는지 소개
